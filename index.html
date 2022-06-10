@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Large Number</title>
+</head>
+<body>
+  <script>
+    let num1, num2
+    num1 = window.prompt(`Введите первое число: `)
+    num2 = window.prompt(`Введите второе число: `)
+                                                    
+    if (parseInt(num1) > parseInt(num2)) { 
+      window.alert(`Число ${num1} больше числа ${num2}`)
+      } else if (parseInt(num2) > parseInt(num1)) {
+        window.alert(`Число ${num2} больше числа ${num1}`)
+      } else {
+        window.alert(`Введенные числа равны`)
+      }
+
+    // window.alert(Math.max(num1, num2))
+  </script>
+</body>
+</html>
+
+
+<!-- window — это глобальный объект, предоставляемый браузером. Через него происходит управление окнами (вкладками) в браузере. Он содержит функции для открытия вкладки, управление положением страницы и многим другим. -->
+
+<!-- Простое общение с пользователем: (встроенные модальные окна)
+alert, prompt, confirm - работают только в браузере!!!
+
+
+alert - показывает сообщение и ждёт, пока пользователь нажмёт кнопку «ОК».
+
+promt - Функция prompt принимает два аргумента: prompt(title, [default])
+Этот код отобразит модальное окно с текстом, полем для ввода текста и кнопками OK/Отмена.
+title - Текст для отображения в окне.
+default - Необязательный второй параметр, который устанавливает начальное значение в поле для текста в окне. -->
