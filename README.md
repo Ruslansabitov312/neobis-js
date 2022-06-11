@@ -10,3 +10,4 @@
 * isUpperCase branch is task 8
 * drawsmile branch is task 9
 * patter branch is task 10
+* setcolor branch is task 11
