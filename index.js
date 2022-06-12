@@ -1,15 +1,15 @@
-myColor = ["Red", "Green", "White", "Black"]
+myColor = ['Red', 'Green', 'White', 'Black']
 
-function myJoin(arr) {
+function commaJoin(arr) {
   return arr.join(',')
 }
 
-// function myJoin(arr) {
-//   return arr.join('+')
-// }
+function plusJoin(arr) {
+  return arr.join('+')
+}
 
-console.log(myJoin(myColor))
-
+console.log(commaJoin(myColor))
+console.log(plusJoin(myColor))
 
 // Соединение массива четырьмя различными способами:
 // Содержимое массива четыре раза объединяются в строку: с использованием разделителя по умолчанию, запятой с пробелом, плюса, окружённого пробелами, и пустой строки.
