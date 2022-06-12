@@ -8,7 +8,7 @@
 * join             branch is task 6
 * getMonthName     branch is task 7
 * isUpperCase      branch is task 8
-* drawsmile        branch is task 9 [Link text Here](ruslansabitov312.github.io/neobis-js)
+* drawsmile        branch is task 9
 * patter           branch is task 10
 * setcolor         branch is task 11
 * fromarraytool    branch is task 12
