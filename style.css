@@ -1,0 +1,232 @@
+.main-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.title-span {
+  color: red;
+  font-weight: bold;
+}
+
+.section-hr {
+  margin: 20px 0;
+	padding: 0;
+	height: 6px;
+	border: none;
+	background: linear-gradient(45deg, #333, #ddd);
+}
+
+/* task 1 */
+
+.wrapper1 {
+  max-width: 300px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.button1 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  margin-top: 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  margin: 0 auto;
+  display: block;
+}
+
+/* task2 */
+
+.wrapper2 {
+  max-width: 250px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.title2 {
+  margin: 10px auto;
+  color: #4CAF50;
+}
+
+.button2 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  margin-top: 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+/* task 3 */
+
+.wrapper3 {
+  max-width: 600px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.button3 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  margin-top: 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+/* task 4 */
+
+.wrapper4 {
+  max-width: 250px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.button4 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  margin-top: 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+/* task 5 */
+
+.wrapper5 {
+  max-width: 300px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.button5 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  margin-top: 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+/* task 6 */
+
+.wrapper6 {
+  max-width: 250px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.button6 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  margin-top: 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+/* task 7 */
+
+.wrapper7 {
+  max-width: 600px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.title7 {
+  margin: 10px auto;
+  color: #4CAF50;
+}
+
+.button7 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+/* task 8 */
+
+.wrapper8 {
+  max-width: 600px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.title8 {
+  margin: 10px auto;
+  color: #4CAF50;
+}
+
+.button8 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
